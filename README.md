@@ -71,9 +71,21 @@ Follow official installation tutorial by using the link below:
 3. Open SideQuest
 4. Click **Install APK from folder**
 
-<img src="https://lh5.googleusercontent.com/JdwvO1j3b8uOWSQRW6b6EI_fdyD9iEO2ezjktigHSPBzBD-jNiLmX-dlwH6cLgkWiA3f7-vSBUZGO4_sIVYld8CO1Q1vXLO-rQUC-ZNCNoOwGGgz=w1280">
+<img src="https://github.com/akinogunc/VR-Assistant-Convai/blob/main/sidequest1.png">
 
 5. Select the  ***.apk** file
+6. Wait for it to install, you can watch the progress by clicking the pink '1'
 
+<img src="https://github.com/akinogunc/VR-Assistant-Convai/blob/main/sidequest2.jpeg">
 
+When the  pink install bar turns green,  the application is installed
+
+### How to Launch
+
+Follow these 4 steps to launch the app:
+
+1. Click Home
+2. Click Library
+3. Select Unknown Sources
+4. Run your app!
 
