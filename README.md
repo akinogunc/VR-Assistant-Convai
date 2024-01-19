@@ -1,6 +1,6 @@
 ## Technical Documentation
 
-### Getting ready for VR Installation
+### Manual Installation by building for VR 
 You need to complete following instructions to make Convai Plugin compatible with VR
 
 The following packages will be needed:
@@ -33,6 +33,47 @@ If these packages are not present, they will be installed with the script.
 
 5. Build the project by going to " File /Build Settings / Build " Ensure that the main scene is included in the Scenes in Build section.
 
-Now everything is ready for testing. 🙂✅
+Now everything is ready for testing. ✅
+
+## Automatic Installation by SideQuest(for Oculus Quest)
+
+### Prerequisites
+
+#### 1. Enable Developer Mode on Quest
+
+Turn on your Quest headset and open the Oculus app on the Android or iOS device you used to set up your Quest.
+
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/086/760/medium800/hacks_app-dev-mode.png?1578521683">
+
+Follow these steps to enable Developer mode on your Quest:
+
+1. Tap **Settings** (bottom-right)
+2. **Select** your connected Quest from the device list and connect to it
+3. Tap **More Settings** which appears below your Quest in the device list
+4. Tap **Developer Mode**
+5. Tap the **switch** to enable developer mode
+6. Exit Settings on the app & **reboot your Quest** using the right-side power button
+
+<img src="https://cdn-learn.adafruit.com/assets/assets/000/086/757/medium800/hacks_quest-dev-menu.png?1578521198">
+
+After your Quest reboots, developer mode should be enabled. You can confirm this by checking for the **Developer** category in the Quest's **Settings menu** as seen above.
+
+#### 2. Install SideQuest on Your PC
+
+Follow official installation tutorial by using the link below:
+
+[![SideQuest Installation](https://img.youtube.com/vi/d7qeXI-h4A8/0.jpg)](https://www.youtube.com/watch?v=d7qeXI-h4A8)
+
+### Using SideQuest
+
+1. Make sure you have **downloaded the *.apk** for the application you are trying to download
+2. **Plug in your  Oculus Quest  to your computer.** Connect your headset to your pc via your USB-C cable. The long black charging cable should work for this.
+3. Open SideQuest
+4. Click **Install APK from folder**
+
+<img src="https://lh5.googleusercontent.com/JdwvO1j3b8uOWSQRW6b6EI_fdyD9iEO2ezjktigHSPBzBD-jNiLmX-dlwH6cLgkWiA3f7-vSBUZGO4_sIVYld8CO1Q1vXLO-rQUC-ZNCNoOwGGgz=w1280">
+
+5. Select the  ***.apk** file
+
 
 
