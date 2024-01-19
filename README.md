@@ -89,6 +89,5 @@ Follow these 4 steps to launch the app:
 3. Select Unknown Sources
 4. Run your app!
 
-https://github.com/akinogunc/VR-Assistant-Convai/assets/40795413/b5ae62a6-76ef-4ea1-97dd-74808192676a
-
+![sidequest_demo](https://github.com/akinogunc/VR-Assistant-Convai/assets/40795413/99389f28-7ada-481e-94aa-ff800e90e29f)
 
